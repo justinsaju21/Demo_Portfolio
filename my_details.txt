@@ -1,75 +1,79 @@
---------------------------------------------------------------------------------
-📝 HOW TO USE THIS FILE
---------------------------------------------------------------------------------
-1. This file contains EXAMPLE data (Aarav Krishnan).
-2. delete the example text and replace it with YOUR OWN details.
-3. Save the file.
-4. Run the AI command to update your website.
---------------------------------------------------------------------------------
+================================================================================
+Student Portfolio Demo - EDIT THIS FILE
+================================================================================
+INSTRUCTIONS: Replace the details below with your own information.
+Save the file, then run the AI command.
+================================================================================
 
-[SECTION: PROFILE]
+[BASIC PROFILE]
 Name: Aarav Krishnan
-Tagline: 3rd Year B.Tech | ECE @ SRMIST
 Degree: B.Tech – Electronics and Communication Engineering (Core)
+Year: 3rd Year
 University: SRM Institute of Science and Technology
 Location: Chennai, India
 Email: aarav.krishnan.ece@gmail.com
-Social_GitHub: github.com/aarav-krishnan
-Social_LinkedIn: linkedin.com/in/aarav-krishnan
-Portfolio_URL: aaravkrishnan.tech
+GitHub: github.com/aarav-krishnan
+LinkedIn: linkedin.com/in/aarav-krishnan
+Portfolio: aaravkrishnan.tech
 
-[SECTION: ABOUT]
-# Write a short bio. (The AI will use this in the Hero & About sections)
+[ABOUT ME]
 Bio: I am a passionate Electronics and Communication Engineering student with strong interests in embedded systems, IoT, and applied AI. I enjoy converting theoretical concepts into real-world applications through hands-on projects. Currently focused on microcontrollers, edge AI, and sensor-based systems, with a goal to work in product-based or R&D roles.
+Career Objective: To secure an internship or entry-level role where I can apply my ECE fundamentals and embedded systems knowledge to develop reliable and scalable engineering solutions.
 
-[SECTION: HIGHLIGHTS]
-# Short bullet points for the Hero section
-Highlight_1: Embedded Systems
-Highlight_2: IoT Development
-Highlight_3: Edge AI
-Highlight_4: Sensor-based Systems
-
-[SECTION: SKILLS]
-# List your skills comma-separated
+[TECHNICAL SKILLS]
 Programming: C, C++, Python (NumPy, OpenCV basics), Embedded C
-Electronics: Digital Electronics, Analog Circuits, Signals & Systems, Microprocessors
-Hardware: Arduino (Uno, Nano), ESP32 / ESP8266, Raspberry Pi
-Tools: MATLAB, Proteus, LTspice, VS Code, Git
+Electronics & Core ECE: Digital Electronics, Analog Circuits, Signals & Systems, Microprocessors & Microcontrollers, Basic VLSI concepts
+Hardware & Platforms: Arduino (Uno, Nano), ESP32 / ESP8266, Raspberry Pi (Basics), Sensors (DHT11, PIR, Ultrasonic, IR)
+Tools & Software: MATLAB (Simulation), Proteus, LTspice, VS Code, Git & GitHub
 
-[SECTION: PROJECTS]
-# Replace these with your own 2-3 best projects.
+[PROJECTS]
+1. Smart Attendance System using Face Recognition
+   - Built a real-time attendance system using Python + OpenCV
+   - Integrated camera module and database logging
+   - Reduced proxy attendance by automating verification
+   Tech Stack: Python, OpenCV, Haar Cascades
 
-Project_1_Title: Smart Attendance System using Face Recognition
-Project_1_Desc: Built a real-time attendance system using Python + OpenCV. Integrated camera module and database logging. Reduced proxy attendance by automating verification.
-Project_1_Tech: Python, OpenCV, Haar Cascades
+2. IoT-Based Smart Energy Monitoring System
+   - Designed a system to monitor real-time power usage
+   - ESP32 uploads data to cloud dashboard
+   - Alerts generated for abnormal consumption
+   Tech Stack: ESP32, Sensors, MQTT, ThingSpeak
 
-Project_2_Title: IoT-Based Smart Energy Monitoring System
-Project_2_Desc: Designed a system to monitor real-time power usage. ESP32 uploads data to cloud dashboard. Alerts generated for abnormal consumption.
-Project_2_Tech: ESP32, Sensors, MQTT, ThingSpeak
+3. Obstacle Detection System for Blind Assistance
+   - Used ultrasonic sensors to detect obstacles
+   - Audio alerts via buzzer and vibration motor
+   - Low-cost assistive solution
+   Tech Stack: Arduino, Ultrasonic Sensor, Embedded C
 
-Project_3_Title: Obstacle Detection System for Blind Assistance
-Project_3_Desc: Used ultrasonic sensors to detect obstacles. Audio alerts via buzzer and vibration motor. Low-cost assistive solution.
-Project_3_Tech: Arduino, Ultrasonic Sensor, Embedded C
-
-[SECTION: EXPERIENCE]
-# Internships or Jobs
-Role: Embedded Systems Intern
-Company: TechNova Labs
+[INTERNSHIPS & EXPERIENCE]
+Embedded Systems Intern – TechNova Labs
 Duration: May 2025 – July 2025
-Description: Worked on Arduino and ESP32-based prototypes. Assisted in sensor calibration and testing. Debugged hardware-software integration issues.
+- Worked on Arduino and ESP32-based prototypes
+- Assisted in sensor calibration and testing
+- Debugged hardware-software integration issues
+- Documented project workflows
 
-[SECTION: CERTIFICATIONS]
-# Online courses or certificates
-Cert_1: Embedded Systems with Arduino – Coursera
-Cert_2: Introduction to IoT – NPTEL
-Cert_3: Python for Engineers – Udemy
-Cert_4: MATLAB Onramp – MathWorks
+[CERTIFICATIONS]
+- Embedded Systems with Arduino – Coursera
+- Introduction to IoT – NPTEL
+- Python for Engineers – Udemy
+- MATLAB Onramp – MathWorks
 
-[SECTION: EXTRACURRICULAR]
-Activity_1: Member, SRM Robotics Club
-Activity_2: Volunteered in Tech Fest hardware team
-Activity_3: Built personal lab setup at home for electronics practice
+[AREAS OF INTEREST]
+- Embedded Systems & Firmware
+- Internet of Things (IoT)
+- Edge AI & Computer Vision
+- Robotics & Automation
+- Semiconductor Industry (VLSI – Beginner)
 
---------------------------------------------------------------------------------
-END OF FILE
---------------------------------------------------------------------------------
+[SOFT SKILLS]
+- Problem Solving
+- Team Collaboration
+- Technical Documentation
+- Time Management
+- Willingness to Learn
+
+[EXTRA / EXTRACURRICULAR]
+- Member, SRM Robotics Club
+- Volunteered in Tech Fest hardware team
+- Built personal lab setup at home for electronics practice
