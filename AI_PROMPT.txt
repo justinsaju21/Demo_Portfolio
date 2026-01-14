@@ -9,6 +9,7 @@ STEP 0: CRITICAL SYSTEM CHECK
     - Mac: `brew install node`
   - IF INSTALL SUCCESSFUL: STOP everything. Tell me: "✅ Node.js installed! Please RESTART your VS Code window now, then run this prompt again."
   - IF INSTALL FAILS: STOP everything. Tell me: "❌ Node.js is missing. Please install it from https://nodejs.org/ and restart VS Code."
+- ALSO, provide a manual fallback instruction: "If automatic install fails, download Node.js from https://nodejs.org/ and run the installer, then restart VS Code before re‑running this prompt."
 - IF NODE IS INSTALLED: Proceed to Step 1 immediately.
 
 STEP 1: UPDATE CONTENT
