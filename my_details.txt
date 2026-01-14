@@ -1,56 +1,44 @@
 --------------------------------------------------------------------------------
-📝 INSTRUCTIONS FOR STUDENTS
+📝 HOW TO USE THIS FILE
 --------------------------------------------------------------------------------
-1. Fill out this file with YOUR actual details.
-2. Save the file.
-3. Open the AI Assistant (Antigravity) and type:
-   "Update the portfolio website using the details in my_details.txt"
-
-The AI will read this file and automatically update your portfolio code!
+1. This file contains EXAMPLE data (Aarav Krishnan).
+2. delete the example text and replace it with YOUR OWN details.
+3. Save the file.
+4. Run the AI command to update your website.
 --------------------------------------------------------------------------------
 
-[SECTION: PERSONAL_INFO]
+[SECTION: PROFILE]
 Name: Aarav Krishnan
 Tagline: 3rd Year B.Tech | ECE @ SRMIST
 Degree: B.Tech – Electronics and Communication Engineering (Core)
 University: SRM Institute of Science and Technology
 Location: Chennai, India
 Email: aarav.krishnan.ece@gmail.com
-Phone: +91 98765 43210
-
-[SECTION: SOCIAL_LINKS]
-GitHub: github.com/aarav-krishnan
-LinkedIn: linkedin.com/in/aarav-krishnan
+Social_GitHub: github.com/aarav-krishnan
+Social_LinkedIn: linkedin.com/in/aarav-krishnan
 Portfolio_URL: aaravkrishnan.tech
 
-[SECTION: ABOUT_ME]
-Bio_Highlight_1: Embedded Systems
-Bio_Highlight_2: IoT Development
-Bio_Highlight_3: Edge AI
-Career_Objective: To secure an internship or entry-level role where I can apply my ECE fundamentals and embedded systems knowledge to develop reliable and scalable engineering solutions.
-About_Description: I am a passionate Electronics and Communication Engineering student with strong interests in embedded systems, IoT, and applied AI. I enjoy converting theoretical concepts into real-world applications through hands-on projects. Currently focused on microcontrollers, edge AI, and sensor-based systems.
+[SECTION: ABOUT]
+# Write a short bio. (The AI will use this in the Hero & About sections)
+Bio: I am a passionate Electronics and Communication Engineering student with strong interests in embedded systems, IoT, and applied AI. I enjoy converting theoretical concepts into real-world applications through hands-on projects. Currently focused on microcontrollers, edge AI, and sensor-based systems, with a goal to work in product-based or R&D roles.
 
-[SECTION: EDUCATION]
-Degree: B.Tech – Electronics and Communication Engineering (Core)
-Institution: SRM Institute of Science and Technology
-Year: 3rd Year
-School_12th: Your School Name, 2023
+[SECTION: HIGHLIGHTS]
+# Short bullet points for the Hero section
+Highlight_1: Embedded Systems
+Highlight_2: IoT Development
+Highlight_3: Edge AI
+Highlight_4: Sensor-based Systems
 
 [SECTION: SKILLS]
+# List your skills comma-separated
 Programming: C, C++, Python (NumPy, OpenCV basics), Embedded C
-Electronics_Core: Digital Electronics, Analog Circuits, Signals & Systems, Microprocessors & Microcontrollers, Basic VLSI concepts
-Hardware_Platforms: Arduino (Uno, Nano), ESP32 / ESP8266, Raspberry Pi (Basics), Sensors (DHT11, PIR, Ultrasonic, IR)
-Tools_Software: MATLAB (Simulation), Proteus, LTspice, VS Code, Git & GitHub
-Soft_Skills: Problem Solving, Team Collaboration, Technical Documentation, Time Management, Willingness to Learn
-
-[SECTION: INTERESTS]
-Interest_1: Embedded Systems & Firmware
-Interest_2: Internet of Things (IoT)
-Interest_3: Edge AI & Computer Vision
-Interest_4: Robotics & Automation
-Interest_5: Semiconductor Industry (VLSI – Beginner)
+Electronics: Digital Electronics, Analog Circuits, Signals & Systems, Microprocessors
+Hardware: Arduino (Uno, Nano), ESP32 / ESP8266, Raspberry Pi
+Tools: MATLAB, Proteus, LTspice, VS Code, Git
 
 [SECTION: PROJECTS]
+# Replace these with your own 2-3 best projects.
+
 Project_1_Title: Smart Attendance System using Face Recognition
 Project_1_Desc: Built a real-time attendance system using Python + OpenCV. Integrated camera module and database logging. Reduced proxy attendance by automating verification.
 Project_1_Tech: Python, OpenCV, Haar Cascades
@@ -64,22 +52,24 @@ Project_3_Desc: Used ultrasonic sensors to detect obstacles. Audio alerts via bu
 Project_3_Tech: Arduino, Ultrasonic Sensor, Embedded C
 
 [SECTION: EXPERIENCE]
-Internship_1_Role: Embedded Systems Intern
-Internship_1_Company: TechNova Labs
-Internship_1_Duration: May 2025 – July 2025
-Internship_1_Tasks: Worked on Arduino and ESP32-based prototypes, Assisted in sensor calibration and testing, Debugged hardware-software integration issues, Documented project workflows
+# Internships or Jobs
+Role: Embedded Systems Intern
+Company: TechNova Labs
+Duration: May 2025 – July 2025
+Description: Worked on Arduino and ESP32-based prototypes. Assisted in sensor calibration and testing. Debugged hardware-software integration issues.
 
 [SECTION: CERTIFICATIONS]
+# Online courses or certificates
 Cert_1: Embedded Systems with Arduino – Coursera
 Cert_2: Introduction to IoT – NPTEL
 Cert_3: Python for Engineers – Udemy
 Cert_4: MATLAB Onramp – MathWorks
 
 [SECTION: EXTRACURRICULAR]
-Club_1: Member, SRM Robotics Club
-Activity_1: Volunteered in Tech Fest hardware team
-Activity_2: Built personal lab setup at home for electronics practice
+Activity_1: Member, SRM Robotics Club
+Activity_2: Volunteered in Tech Fest hardware team
+Activity_3: Built personal lab setup at home for electronics practice
 
 --------------------------------------------------------------------------------
-End of File
+END OF FILE
 --------------------------------------------------------------------------------

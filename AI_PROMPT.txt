@@ -1,11 +1,15 @@
 [INSTRUCTION]
 I have filled out `my_details.txt` with my personal information. Please perform the following automated setup sequence. Do not stop for confirmation between steps.
 
-STEP 0: CHECK PREREQUISITES
-- Check if Node.js is installed by running `node -v`.
-- If missing, attempt to install it (e.g., using `winget install -e --id OpenJS.NodeJS` on Windows or `brew install node` on Mac).
-- IMPORTANT: If you install Node.js, you MUST STOP and tell me: "Node.js has been installed. Please RESTART your code editor/terminal and run this prompt again to continue."
-- If installation fails, STOP and tell me: "Node.js is missing. Please install it from https://nodejs.org/ and restart."
+STEP 0: CRITICAL SYSTEM CHECK
+- FIRST, check if Node.js is installed by running `node -v` in the terminal.
+- IF NODE IS MISSING (Command not found):
+  - Try to install it automatically:
+    - Windows: `winget install -e --id OpenJS.NodeJS`
+    - Mac: `brew install node`
+  - IF INSTALL SUCCESSFUL: STOP everything. Tell me: "✅ Node.js installed! Please RESTART your VS Code window now, then run this prompt again."
+  - IF INSTALL FAILS: STOP everything. Tell me: "❌ Node.js is missing. Please install it from https://nodejs.org/ and restart VS Code."
+- IF NODE IS INSTALLED: Proceed to Step 1 immediately.
 
 STEP 1: UPDATE CONTENT
 - Read `my_details.txt` carefully.
