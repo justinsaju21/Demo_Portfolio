@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2026 Justin Saju
+ * 
+ * Licensed under the MIT License. See LICENSE file in the project root for full license information.
+ */
+
 "use client";
 
 import { cn } from "@/lib/utils";
@@ -21,3 +27,4 @@ export function GlassmorphismCard({ children, className, hover = true }: Glassmo
         </div>
     );
 }
+

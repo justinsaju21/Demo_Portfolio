@@ -78,4 +78,16 @@ src/
 
 ---
 
+## 📝 License & Attribution
+
+**MIT License** © 2026 Justin Saju
+
+Free to use for your own portfolio!
+
+**Attribution Request:**
+If you use this template, please keep the attribution in the footer or link back to this repository.
+Example: *built with [Student Portfolio Template](https://github.com/justinsaju21/Demo_Portfolio)*
+
+---
+
 **Made with ❤️ for Students**

@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2026 Justin Saju
+ * 
+ * Licensed under the MIT License. See LICENSE file in the project root for full license information.
+ */
+
 @import "tailwindcss";
 
 /*
@@ -149,3 +155,4 @@ body {
 a, button {
   transition: all 0.2s ease;
 }
+

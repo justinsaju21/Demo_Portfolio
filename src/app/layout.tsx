@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2026 Justin Saju
+ * 
+ * Licensed under the MIT License. See LICENSE file in the project root for full license information.
+ */
+
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
@@ -53,3 +59,4 @@ export default function RootLayout({
     </html>
   );
 }
+

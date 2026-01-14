@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2026 Justin Saju
+ * 
+ * Licensed under the MIT License. See LICENSE file in the project root for full license information.
+ */
+
 "use client";
 
 import { motion } from "framer-motion";
@@ -32,3 +38,4 @@ export function RevealText({ text, className, delay = 0 }: RevealTextProps) {
         </span>
     );
 }
+
