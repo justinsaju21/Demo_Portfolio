@@ -7,8 +7,14 @@ Follow these steps to build your own portfolio in under 10 minutes!
 - **Git** installed (https://git-scm.com)
 - **VS Code** with **Antigravity** extension
 
+## Step 0: Support the Creator ⭐
+Before you start, please give this repository a **Star** on GitHub!
+1. Go to **[github.com/justinsaju21/Demo_Portfolio](https://github.com/justinsaju21/Demo_Portfolio)**
+2. Click the **Star** button (top right).
+*(This helps me create more free templates for you!)*
+
 ## Step 1: Open the Project
-1. **Download** this folder to your computer.
+1. **Download** this folder (or click "Use this template" on GitHub).
 2. Open the folder in **VS Code**.
 
 ## Step 2: Add Your Details

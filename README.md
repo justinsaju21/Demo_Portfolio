@@ -6,6 +6,8 @@ A modern, animated portfolio template built with **Next.js 16**, **TypeScript**,
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38bdf8?style=flat-square&logo=tailwindcss)
 
+[**Use this Template**](https://github.com/justinsaju21/Demo_Portfolio/generate) | [**Star this Repo**](https://github.com/justinsaju21/Demo_Portfolio)
+
 ---
 
 ## ⚡ The "Magic" AI Workflow (Easiest Way)
